@@ -1,4 +1,4 @@
- ---
+---
 applications:
 - name: cfnode3_build
   memory: 512M
