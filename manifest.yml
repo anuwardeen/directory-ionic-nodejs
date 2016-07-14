@@ -1,0 +1,9 @@
+ ---
+applications:
+- name: cfnode3_build
+  memory: 512M
+  instances: 1
+  host: cfnode3_build
+  buildpack: nodejs_buildpack
+  path: .
+  
